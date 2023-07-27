@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Disney</string>
+    <string name="descripcion">Encuentra las mejores películas de animación\nfácil en tu celular</string>
+    <string name="version">Version 4.0.0</string>
+    <string name="API_KEY">AIzaSyCnsvz_LfJ-TA2w8MI4-ZpSNmISFAd5bY8</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
